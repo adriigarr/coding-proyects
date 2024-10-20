@@ -2,3 +2,7 @@ qrcode
 flask
 numpy
 matplotlib
+opencv-python
+pyzbar
+TIME-python
+flask
